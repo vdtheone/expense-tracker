@@ -119,3 +119,33 @@ python manage.py runserver
 
 </body>
 </html>
+
+---
+
+## 📌 Repository Info
+
+| Field | Details |
+|---|---|
+| **GitHub** | [vdtheone/expense-tracker](https://github.com/vdtheone/expense-tracker) |
+| **Local Path** | `/home/neosoft/vishal/Django/expense-tracker` |
+| **Main Branch** | `master` |
+| **Tech Stack** | Django, DRF, SQLite |
+| **Migrated** | 2026-07-31 — moved from VishalNeosoft24 → vdtheone |
+
+### 🔄 Git Remote
+```bash
+git remote set-url origin git@github.com:vdtheone/expense-tracker.git
+```
+
+### 📋 Quick Commands
+```bash
+# Check status
+git status
+
+# Push changes
+git push origin master
+
+# Pull latest
+git pull origin master
+```
+
